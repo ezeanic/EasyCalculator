@@ -4,5 +4,4 @@
 - Assigned a function to every component in the UI.
 - Used an emulator to test UI and performance of the Application.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/
